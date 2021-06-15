@@ -8,7 +8,7 @@ void main()
 	printf("Enter 2 values:");
 	scanf("%d%d",&a,&b);
 	//swap
-	swap(&a,&b);														7689859573 177
+	swap(&a,&b);
 	printf("After swapping: %d\t%d\n",a,b);
 	getch();
 }
