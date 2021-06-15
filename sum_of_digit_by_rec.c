@@ -5,7 +5,7 @@ void main()
 {
 	int n;
 	
-	printf("hello aadesh agrawal(2019uec1660)\nenter values=");
+	printf("hello\nenter values=");
 	scanf("%d",&n);
 
 	printf("%d",sum(n));
